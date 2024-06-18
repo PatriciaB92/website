@@ -1,0 +1,27 @@
+body {
+    opacity: 1.0;
+    background-image: url("trial1.jpg");
+}
+h1 {
+    font-family: "Baskerville Old Face";
+    color: floralwhite;
+    text-align: center;
+}
+header {
+    text-align: center;
+    color: beige;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+blockquote {
+    text-align: center;
+    text-decoration-color: aliceblue;
+}
+p {
+    text-align: center;
+    color: azure;
+}
